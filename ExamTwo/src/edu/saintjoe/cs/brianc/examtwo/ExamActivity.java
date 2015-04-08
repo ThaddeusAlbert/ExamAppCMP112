@@ -13,7 +13,7 @@ import com.google.devtools.simple.runtime.components.android.TextBox;
 import com.google.devtools.simple.runtime.components.android.AccelerometerSensor;
 
 import com.google.devtools.simple.runtime.events.EventDispatcher;
-
+// initial commit
 public class ExamActivity extends Form implements HandlesEventDispatching {
 
 	private HorizontalArrangement line1, line2, line3, line4, line5;
